@@ -1,3 +1,7 @@
+# DISCONTINUATION OF PROJECT #
+This project will no longer be maintained by Intel.
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
+Intel no longer accepts patches to this project.
 # Intel D3D12VariableRateShading Sample
 A simple D3D12 example demonstrating how to use Intel Tier 1 Variable Rate Shading
 
